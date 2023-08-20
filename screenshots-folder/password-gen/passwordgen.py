@@ -18,6 +18,5 @@ def gen():
     #pass the values of the list to the password variable wirh regards to the length entered
     pas = ("".join(s[0:paslen]))
     print(pas)
-1212
 
 gen()
